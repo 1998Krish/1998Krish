@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohit</h1>
 <h3 align="center">A Passionate Self Taught Mern Developer</h3>
 
-- 🔭 I’m currently working on **Real Time Food Delivery Application**
+- 🔭 I’m currently working on **My Skills**
 
 - 🌱 I’m currently start learning **Python**
 
